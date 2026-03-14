@@ -1,0 +1,13 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 76b19eb..8b51c47 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -38,7 +38,7 @@[m
+       </tr>[m
+       [m
+       <tr>[m
+[31m-        <th colspan=2> L[m
+[32m+[m[32m        <th colspan=2> P[m
+       </tr>[m
+    </table>[m
+ [m
